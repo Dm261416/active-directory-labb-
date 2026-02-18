@@ -11,6 +11,7 @@ This lab demonstrates real-world Active Directory administration skills includin
 ---
 
 ## 🗺️ Lab Architecture
+<img width="868" height="560" alt="image" src="https://github.com/user-attachments/assets/7be8aa15-b1c1-4255-b9ac-63790b2b1949" />
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
